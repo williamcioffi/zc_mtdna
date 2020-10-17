@@ -1,0 +1,61 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+GR096R_PREMIX_C09      TTCACCCAAAAANCTGGAGTTCTACATAAACTACTCCCTGAAAAAGTCTTATTATAGAAT	60
+GR096F_PREMIX          ---------------------------------NNNNNNNNNANAGTCTTATTATAGAAT	27
+                                                                 * ****************
+
+GR096R_PREMIX_C09      AACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTCC	120
+GR096F_PREMIX          AACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTCC	87
+                       ************************************************************
+
+GR096R_PREMIX_C09      TGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACTG	180
+GR096F_PREMIX          TGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACTG	147
+                       ************************************************************
+
+GR096R_PREMIX_C09      TATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAAA	240
+GR096F_PREMIX          TATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAAA	207
+                       ************************************************************
+
+GR096R_PREMIX_C09      GCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATATG	300
+GR096F_PREMIX          GCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATATG	267
+                       ************************************************************
+
+GR096R_PREMIX_C09      CCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTGG	360
+GR096F_PREMIX          CCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTGG	327
+                       ************************************************************
+
+GR096R_PREMIX_C09      CAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTTT	420
+GR096F_PREMIX          CAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTTT	387
+                       ************************************************************
+
+GR096R_PREMIX_C09      ATAAGACATCTGGTTCTTANTCAGGACCNNCNNNACNNNNTNNNNNNNNNN---------	471
+GR096F_PREMIX          ATAAGACATCTGGTTCTTACTTCAGGACCATCTTAACTTAAAATCGCCCACTCGTTCCCC	447
+                       ******************* *   *  *      *                         
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          TTAAATAAGAATCNNCNGATGGATGGGCCCCCGGTGCGAGAAGAGGGATCCCTGCCAAGC	507
+                                                                                   
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          GGGTTGCTGGTTTCACGCGGCATGGTAGTTAAGCTCGTGATCTAATGGAACGGGATATTT	567
+                                                                                   
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          NNAATAAAGGAAANATTTTNTTTTTTTAAAANNNAAAAAAAAAAAANNNNANTTTANCCC	627
+                                                                                   
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          CNNNGGGGAAAAAAAAAAAAANNNNNTTTTTCNNGGGAAAATNNTNNCNACCCCCCNNNA	687
+                                                                                   
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          NNNNACCTTTNNNNTTGGGGGGGGGGGGGGGNNNNNTTTTAANNNAAAAANNAAAANNNN	747
+                                                                                   
+
+GR096R_PREMIX_C09      ------------------------------------------------------------	471
+GR096F_PREMIX          NNNGGGGGGTTTTTTTTTTTTTTTTNNGGGNNNNGGGGGGGGGGGGGTTTTTTTNAAAAA	807
+                                                                                   
+
+GR096R_PREMIX_C09      -----------------------------------------------------	471
+GR096F_PREMIX          AAAAAANTTTNTGGGGGGGTTTTTTTTATANNNCNNNNTTTGTAAAAAAAAAA	860

@@ -1,0 +1,65 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+GR102R_PREMIX_A10      TTTCACCCCAAAAANTGAAGTTCTACATAAACTACTCCCTGAAAAAGTCTTATTATAGAA	60
+GR102F_PREMIX          ----------------------------------NNNNNNNNNNNAGTCTTATTATAGAA	26
+                                                                    ***************
+
+GR102R_PREMIX_A10      TAACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTC	120
+GR102F_PREMIX          TAACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTC	86
+                       ************************************************************
+
+GR102R_PREMIX_A10      CTGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	180
+GR102F_PREMIX          CTGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	146
+                       ************************************************************
+
+GR102R_PREMIX_A10      GTATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	240
+GR102F_PREMIX          GTATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	206
+                       ************************************************************
+
+GR102R_PREMIX_A10      AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	300
+GR102F_PREMIX          AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	266
+                       ************************************************************
+
+GR102R_PREMIX_A10      GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	360
+GR102F_PREMIX          GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	326
+                       ************************************************************
+
+GR102R_PREMIX_A10      GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	420
+GR102F_PREMIX          GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	386
+                       ************************************************************
+
+GR102R_PREMIX_A10      TATAAGACATCTGGTTCTTACTTCAGGACCNNNNNNACNNNNNNCNNNNNNNNNN-----	475
+GR102F_PREMIX          TATAAGACATCTGGTTCTTACTTCAGGACCATCTTAACTTAAAATCGCCCACTCGTTCCC	446
+                       ******************************      **                      
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          CTTAAATAAGAATCCTCCGATGGATGGTGGGCCCGGTGCGAGAAGAGGGATCCCTGCCAA	506
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          GCGGGTTGCTGGTTTCACGCGGCATGGTAGTTAAGCTCGTGATCTAATGGAAGGGGCTTT	566
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          TTACGATTAAAGGCAAATAATGNCCTTTTTTAAAAANNNAAAAAATTAAAATTCNNNNTT	626
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          TNNNNCCNNGGGAAAAAAAAAAAAAANNNNNTTTTTTTNNNNAAAATTTNCCCCCNNNNN	686
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          NCTNAAAANNNNNTTTTTTTGGGGGGGGGGGGGGGGGGGGGNNTTATAAAAAAAAAAAAA	746
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          AAANNTGTGGGGGNTTTTTTTTTTTTTTTNGCNCGCNNNGGGGGGGGGGGGGGGTTTTTN	806
+                                                                                   
+
+GR102R_PREMIX_A10      ------------------------------------------------------------	475
+GR102F_PREMIX          TAAAAAAAAAAAAANTANNNNNGGGGGGGGNTATATTATATCCCCCCCGTGNNGNAAAAA	866
+                                                                                   
+
+GR102R_PREMIX_A10      ------	475
+GR102F_PREMIX          AAAAAA	872

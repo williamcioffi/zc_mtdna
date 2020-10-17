@@ -1,0 +1,65 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+GR099R_PREMIX_F09      TTTCACCCNAANNNNNNNAGTTCTACATAAACTACTCCCTGAAAAAGTCTTATTATAGAA	60
+GR099F_PREMIX          ----------------------------------NNNNNNNNNNNNGTCTTATTATAGAA	26
+                                                                     **************
+
+GR099R_PREMIX_F09      TAACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTC	120
+GR099F_PREMIX          TAACCACAACCCCACAGTGCTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTC	86
+                       ************************************************************
+
+GR099R_PREMIX_F09      CTGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	180
+GR099F_PREMIX          CTGTACTAATCATACAGGCATTCCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	146
+                       ************************************************************
+
+GR099R_PREMIX_F09      GTATGTATATACATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	240
+GR099F_PREMIX          GTATGTATATACATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	206
+                       ************************************************************
+
+GR099R_PREMIX_F09      AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	300
+GR099F_PREMIX          AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	266
+                       ************************************************************
+
+GR099R_PREMIX_F09      GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	360
+GR099F_PREMIX          GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	326
+                       ************************************************************
+
+GR099R_PREMIX_F09      GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	420
+GR099F_PREMIX          GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	386
+                       ************************************************************
+
+GR099R_PREMIX_F09      TATAAGACATCTGGTTCTTANTCAGGACCATNNAANNNNTCNNNNNNNNN----------	470
+GR099F_PREMIX          TATAAGACATCTGGTTCTTACTTCAGGACCATCTTAACTTAAAATCGCCCACTCGTTCCC	446
+                       ******************** *   *  *          *                    
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          CTTAAATAAGACATCCTCCGATGGATGNGGGCGCCGGTGCGAGAAGAGGGATCCCTGCCA	506
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          AGCGGGTTGCTGGTTTCACGCGGCATGGTAGTTAAGCTCGTGATCTAATGGAACGGGCAT	566
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          ATTTCCAATAAAGGAAATTNNNTNNTTTTNAAAAANAAAAAAANTTTATTTACGNNTTTN	626
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          NNNCNNTNGGGNAAAAAAAAAAAANANCCCNCTTTNNTNTNCAGGGGTNNNNNNNNNNCC	686
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          CNNNNGGNNCNNTTTTTTTTTGGGGGGGGGGGGNGGNNNNNNTTTTTTTNAAAAAAAAAA	746
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          AAAAAGGNNGGGGGGGTTTTTTTTTTTTTTTTTNGGGGGNGGGGGGGGGGGGGGGNTGTT	806
+                                                                                   
+
+GR099R_PREMIX_F09      ------------------------------------------------------------	470
+GR099F_PREMIX          TAAAAAAAAAAANNTTNNNNGGGGGGGGGGTGTNNNANNNNNNCCNNNNNNNNTNAAAAA	866
+                                                                                   
+
+GR099R_PREMIX_F09      ----------	470
+GR099F_PREMIX          ANAAAATAAA	876

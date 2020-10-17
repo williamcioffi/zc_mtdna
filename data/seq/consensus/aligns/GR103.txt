@@ -1,0 +1,65 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+GR103F_PREMIX          -----------------------------------NNNNNNNNNNNNTCTTATTATAGAA	25
+GR103R_PREMIX_B10      TTTCACCCAAAAAGNTGGAGTTCTACATAAACTACTCCCTGAAAAAGTCTTATTATAGAA	60
+                                                                      *************
+
+GR103F_PREMIX          TAACCACAACCCCACAGTACTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTT	85
+GR103R_PREMIX_B10      TAACCACAACCCCACAGTACTACGCCAGTATTGAAAAAAAATTACCTCACAGTACATTTT	120
+                       ************************************************************
+
+GR103F_PREMIX          CTGTACTAATCATATAGGCATACCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	145
+GR103R_PREMIX_B10      CTGTACTAATCATATAGGCATACCCGTCCACCCGCTAATATATAGCGTCTCTTCAGGACT	180
+                       ************************************************************
+
+GR103F_PREMIX          GTATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	205
+GR103R_PREMIX_B10      GTATGTATATATATACTATGTATAACTGTGCATTCATTTATTTTCACTACGGAGAGTTAA	240
+                       ************************************************************
+
+GR103F_PREMIX          AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	265
+GR103R_PREMIX_B10      AGCTCGTAATTAATTTTTTTAATTTTACATAAGTACATAATTTGCATTAATCGTACATAT	300
+                       ************************************************************
+
+GR103F_PREMIX          GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	325
+GR103R_PREMIX_B10      GCCCGTTCCATTAGATCACGAGCTTAACTACCATGCCGCGTGAAACCAGCAACCCGCTTG	360
+                       ************************************************************
+
+GR103F_PREMIX          GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	385
+GR103R_PREMIX_B10      GCAGGGATCCCTCTTCTCGCACCGGGCCCATCCATCGTGGGGGTAGCTAATATTGCCTTT	420
+                       ************************************************************
+
+GR103F_PREMIX          TATAAGACATCTGGTTCTTACTTCAGGACCATCTTAACTTAAAATCGCCCACTCGTTCCC	445
+GR103R_PREMIX_B10      TATAAGACATCTGGTTCTTANTCAGGACCNTCNNNACNNNNTNNNNNNNNNN--------	472
+                       ******************** *   *  *      *                        
+
+GR103F_PREMIX          CTTAAATAAGACTCCTCCGATGGATGGGCCNNCCGGTGCGAGAAGAGGGATCCCTGCCAA	505
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          GCGGGTTGCTGGTTTCACGCGGCATGGTAGTTAAGCTCGTGATCTAANGNNAAGGGGATA	565
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          TTTACAATTAAAGCAAATNNNTTNNTTTTTTTAAAAAAAAAAAAAAANNAAATNNNNNAN	625
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          TTTTTCNNNNNGGGNNAAAAAAAAAAAAGCNNNTTTTNNNCGGAAANAATTTNNNNNCCC	685
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          CNNANNNAAAANTTTTTTTNNAGGGGGGGGGGGGGGGTTNTTTTTTTTTTTAAAAAAAAA	745
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          AAAAANNNNGGGGGGGGGNNTTTTTTTTTTTTTTNNNNTGGGGGGGGGGGGGGGGGGGGG	805
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          GGGNTGTTAAAAAAAAAAAAAATATTNNNNGGGGGGNTTTTTTTTTTTTTTTTNNNNTTN	865
+GR103R_PREMIX_B10      ------------------------------------------------------------	472
+                                                                                   
+
+GR103F_PREMIX          GNAGAAAANNGAAAA	880
+GR103R_PREMIX_B10      ---------------	472
